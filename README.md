@@ -23,26 +23,26 @@ Add a portrait image at `assets/images/headshot.jpg` (at least 800 × 1000 px re
 
 ### Add/update JMP
 
-- Paper PDF: `assets/papers/erta_jmp.pdf`
-- Slides: `assets/slides/erta_jmp_slides.pdf`
+- Paper PDF: `assets/papers/salary_history_bans.pdf`
+- Slides: `assets/slides/salary_history_bans.pdf`
 - Title, coauthor, status, and presentations: edit the Job Market Paper sections in `index.html` and `research.html`
 
 Buttons for optional files appear automatically only when those files exist.
 
 ### Add working-paper files
 
-- `assets/papers/salary_history_bans.pdf`
+- `assets/papers/erta.pdf`
 - `assets/papers/ip_protection_ma.pdf`
 
 Optional slide files use the same base filenames in `assets/slides/`.
 
-### Add paper abstracts
+### Update paper abstracts
 
-Search `index.html` and `research.html` for `ABSTRACT TO BE ADDED`. Replace the adjacent commented placeholder with the indicated abstract markup. Abstracts are intentionally omitted until real text is available.
+Edit the full abstracts in `research.html` and the concise job-market-paper summary in `index.html`.
 
-### Add faculty advisors
+### Update the dissertation committee
 
-Search `index.html` for `FACULTY ADVISORS`. A commented location is ready to populate after names and roles are confirmed.
+Edit the Dissertation Committee section in `index.html`.
 
 ### Add Google Scholar
 
